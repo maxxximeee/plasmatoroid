@@ -14,3 +14,4 @@ Enfin, une mise en perspective astrophysique est développée afin d’évaluer 
 Vous trouverez ici les documents importants relatifs à ce projet tels que les fichiers sources  – dont Fritzing – du circuit électronique réalisé ainsi que le fichier de présentation du projet.
 
 ![Expérience](Expérience.jpeg)
+![Tore](Tore.jpg)
